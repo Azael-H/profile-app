@@ -1,0 +1,39 @@
+{
+    "fullName": "Ana María González",
+    "age": 28,
+    "email": "ana.gonzalez@ejemplo.com",
+    "phone": "+34 612 345 678",
+    "address": "Calle Principal 123, Barcelona, España",
+    "bio": "Desarrolladora web full-stack apasionada por crear experiencias digitales excepcionales. Con más de 5 años de experiencia en el desarrollo de aplicaciones web modernas, me especializo en tecnologías frontend y backend. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad. En mi tiempo libre, disfruto contribuir a proyectos open source y participar en hackathones.",
+    "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "HTML5/CSS3",
+        "MongoDB",
+        "Git",
+        "Docker",
+        "TypeScript",
+        "GraphQL"
+    ],
+    "socialLinks": [
+        {
+            "platform": "github",
+            "url": "https://github.com/anagonzalez"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/anagonzalez"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/anagonzalez"
+        },
+        {
+            "platform": "portfolio",
+            "url": "https://anagonzalez.dev"
+        }
+    ]
+}
