@@ -1,11 +1,11 @@
 {
-    "fullName": "Ana María González",
+    "fullName": "Gonzalo Azael Huaman De La Cruz",
     "age": 28,
-    "email": "ana.gonzalez@ejemplo.com",
-    "phone": "+34 612 345 678",
-    "address": "Calle Principal 123, Barcelona, España",
-    "bio": "Desarrolladora web full-stack apasionada por crear experiencias digitales excepcionales. Con más de 5 años de experiencia en el desarrollo de aplicaciones web modernas, me especializo en tecnologías frontend y backend. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad. En mi tiempo libre, disfruto contribuir a proyectos open source y participar en hackathones.",
-    "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+    "email": "gonzalo.huaman@ejemplo.com",
+    "phone": "+51 612 345 678",
+    "address": "Cajamarquilla 123, Lima, Perú",
+    "bio": "Desarrollador web full-stack apasionado por crear experiencias digitales excepcionales. Con más de 2 años de experiencia en el desarrollo de aplicaciones web modernas, me especializo en tecnologías frontend y backend. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad. En mi tiempo libre, disfruto contribuir a proyectos open source y participar en hackathones.",
+    "profileImage": "pepita.jpg",
     "skills": [
         "JavaScript",
         "React",
@@ -21,19 +21,19 @@
     "socialLinks": [
         {
             "platform": "github",
-            "url": "https://github.com/anagonzalez"
+            "url": "https://github.com/Azael-H"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/anagonzalez"
+            "url": "https://linkedin.com/in/AzaelH"
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/anagonzalez"
+            "url": "https://twitter.com/AzaelH"
         },
         {
             "platform": "portfolio",
-            "url": "https://anagonzalez.dev"
+            "url": "https://AzaelHuaman"
         }
     ]
 }
